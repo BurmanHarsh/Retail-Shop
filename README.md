@@ -1,5 +1,6 @@
 # Retail-Shop
 ustomer Segmentation using K-Means Clustering
+
 📌 Project Overview
 This project performs Customer Segmentation using the K-Means clustering algorithm on the Mall Customers dataset.
 The aim is to group customers based on their Age, Annual Income, and Spending Score, helping businesses target specific customer segments effectively.
